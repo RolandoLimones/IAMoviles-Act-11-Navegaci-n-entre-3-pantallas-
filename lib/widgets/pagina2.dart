@@ -18,7 +18,7 @@ class SegundaPagina extends StatelessWidget {
             ClipRRect(
               borderRadius: BorderRadius.circular(20),
               child: Image.network(
-                'https://picsum.photos/300/200',
+                'https://raw.githubusercontent.com/RolandoLimones/misimagenesflutter/refs/heads/main/bosque.jpg',
                 height: 200,
                 // The `placeholder` parameter is not defined for Image.network.
                 // Use `loadingBuilder` to show a loading indicator.
